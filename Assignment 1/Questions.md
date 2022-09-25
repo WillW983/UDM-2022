@@ -5,6 +5,7 @@ Question i:
 
 Question ii:
 From the map of all 311 complaints, it is clear that there are high levels of complaints in central Brooklyn, Harlem area of Manhattan, and Central Bronx. From the map of illegal fireworks, the most prevalent areas are Staten Island, Central Brooklyn, Harlem and Central Bronx. It is interesting to see the high levels of fireworks incidents in Staten Island, a place that you would not associate with such activities. By looking at the percentage of illegal fireworks from the total amount of total 311 complaints, high areas include staten island, central brooklrn and the Harlem areas. 
+
 The maps when laid out in this way, allows for a better representation of the information by separating them into indovidual zip codes. The intensity of the color is then able to show the prevalence of the incident in one area. Something that I found interesting was that due to the low overall incident rate but high illegal fireworks in Staten Island, there is a proportionally higher percentage of illegal fireworks in Staten Island. 
 
 Question iii:
