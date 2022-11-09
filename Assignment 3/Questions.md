@@ -3,17 +3,13 @@ Maps:
 ![alt text](https://github.com/WillW983/UDM-2022/blob/main/Assignment%203/19.png?raw=true)
 ![alt text](https://github.com/WillW983/UDM-2022/blob/main/Assignment%203/diff.png?raw=true)
 
-Compare the outputs for 2013 and 2019. What are some visible differences between these two time periods?
+When comparing the maps of 2013 and 2019, the first thing that stands out is the central black area and how the surrounding areas all got brighter. The central area turned out to a large reservior and park which is unlikely to be developed which matches the darker area as there is not lights there. The brighter lights surrounding the area in the 2019 map suggests that significant development in the surrounding area.
 
-Using the quick OSM plugin, download OSM data (whatever keys you think make most sense) for Singapore. Filter through the data and display the data that makes most sense to you.
-
-Maps:
+Maps from OSM data:
 ![alt text](https://github.com/WillW983/UDM-2022/blob/main/Assignment%203/landuse.png?raw=true)
 ![alt text](https://github.com/WillW983/UDM-2022/blob/main/Assignment%203/landuse_light.png?raw=true)
 
-If you feel it’s needed, browse online for more data which could help you understand the growth in nighttime lights between 2013 and 2019
-
-Using the data and raster files you acquired for Singapore imagine you were asked by a retail store chain to provide an analysis of which areas of Singapore are experiencing the most economic growth:
+Analysis of which areas of Singapore are experiencing the most economic growth:
 
 can you tell a compelling story as to what type of trends accrued in Singapore between 2013 and 2019?
 
