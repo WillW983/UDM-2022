@@ -11,10 +11,9 @@ Maps from OSM data:
 
 Analysis of which areas of Singapore are experiencing the most economic growth:
 
-can you tell a compelling story as to what type of trends accrued in Singapore between 2013 and 2019?
+The land use data was found using OSM and were then categorized into main categories. It can be seen that the land uses most common in the areas that experienced the largest growth in nighttime lights between 2013 and 2019 were residential and commercial. Residential lighting is also very much assiciated with light at night which would suggest that the areas surrounding the central park/reservior experiences a large growth in housing. The growth also suggests large amounts of commercial activities such as the opening of shops which would lead to higher ecnomic growth. The large amount of lighting represents the amount of people that have moved to the area and could contribute to the growing commercial value of the area. Therefore I sould suggest the retail store to move into the area that has the most gain in light as these areas will have the most growth in terms of people and commercial activity. 
 
-Which land uses are most common in those areas that experienced the largest growth in nighttime lights between 2013 and 2019?
+One more method:
+![alt text](https://github.com/WillW983/UDM-2022/blob/main/Assignment%203/road.png?raw=true)
 
-Which neighborhood/area of Singapore would you recommend the retail store should locate in? Explain why?
-
-Find one more method that can be used to compare the two periods.
+There was one more method worth looking at as when I was doing reasearch, I found that Singapore has placed streetlights on every road and they are also capable of creating large amounts of light. I also found that Singapore began to switch out its old streetlights and started replacing them with LED lights starting in 2014. By finding the major roads in OSM, It was found that they also correlated with the change in light, so it could be said that the streetlights, residential and commercial development all contributed to the rise in night time light in Singapore.
